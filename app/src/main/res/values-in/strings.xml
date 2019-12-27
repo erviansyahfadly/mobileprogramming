@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_setting">Pengaturan</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="action_setting_language">Bahasa</string>
+    <string name="label_setting_locale_summary">Ubah Pengaturan Bahasa Perangkat</string>
+    <string name="label_setting_locale_title">Pengaturan Bahasa</string>
+    <string name="favorites_song">Lagu Favorit</string>
+    <string name="offline_song">Lagu Offline</string>
+    <string name="phone">Telepon</string>
+</resources>

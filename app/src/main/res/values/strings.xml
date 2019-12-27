@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ErviansyahF</string>
+    <string name="action_setting">Setting</string>
+    <string name="key_setting_locale">setting_locale</string>
+    <string name="action_setting_language">Language</string>
+    <string name="label_setting_locale_summary">Change device language</string>
+    <string name="label_setting_locale_title">Change language</string>
+    <string name="favorites_song">Favorites Song</string>
+    <string name="offline_song">Offline Song</string>
+    <string name="phone">Phone</string>
 </resources>

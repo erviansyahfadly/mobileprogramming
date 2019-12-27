@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
-    <color name="colorBlack">#0C0C0C</color>
+    <color name="colorPrimary">#20292E</color>
+    <color name="colorPrimaryDark">#3F5052</color>
+    <color name="colorAccent">#0D5D98</color>
+
+    <color name="vip">#FFEB3B</color>
+    <color name="headings">#3797CF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#2A423B</color>
+    <color name="gradStart">#065381</color>
+    <color name="followersBg">#065381</color>
+    <color name="followingBg">#065381</color>
+    <color name="grey">#E5E5E5</color>
+
+    <color name="white">#FFFFFF</color>
+
+        <color name="colorwhite">#FFFFFF</color>
+        <!-- color untuk gradient background -->
+        <color name="startblue">#4EF39D</color>
+        <color name="endblue">#57C2FF</color>
+        <!-- color untuk tombol -->
+        <color name="button">#2196F3</color>
+        <color name="bgutama">#E9E7E7</color>
 </resources>
+
