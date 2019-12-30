@@ -100,7 +100,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-light"
-                    android:text="Lagu Favorit"
+                    android:text="@string/favorites_song"
                     android:textAllCaps="true"
                     android:textColor="@color/white"
                     android:textSize="13sp" />
@@ -137,7 +137,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="sans-serif-light"
-                    android:text="Lagu Offline"
+                    android:text="@string/offline_song"
                     android:textAllCaps="true"
                     android:textColor="@color/white"
                     android:textSize="13sp" />
@@ -200,7 +200,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Telepon"
+                    android:text="@string/phone"
                     android:textColor="@color/headings"
                     android:textSize="13sp" />
 
